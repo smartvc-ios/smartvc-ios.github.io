@@ -5,15 +5,9 @@
             {
                 "appID": "BB2J2N75ZB.com.grillhouse.app",
                 "paths": [
-                    "NOT /admin/*",
-                    "NOT /*/amazon_payments/callback",
-                    "NOT //checkouts//express/callback",
-                    "/*"
+                    "*"
                 ]
             }
         ]
-    },
-    "webcredentials": {
-        "apps": []
     }
 }
